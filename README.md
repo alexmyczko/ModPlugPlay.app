@@ -2,7 +2,7 @@
 # ModPlugPlay.app
 a module player for GNUstep
 
-![Screenshot](ModPlugPlay.app/ModPlugPlay.png?raw=true "Screenshot")
+![Screenshot](ModPlugPlay.png?raw=true "Screenshot")
 
 Requirements:
     libmodplug and libao
