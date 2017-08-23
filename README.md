@@ -10,6 +10,12 @@ Requirements:
 Support file formats:
     mod s3m xm it mdl mtm okt psm med far dsm dmf amf 669
 
+Some music files:
+    [chiptune](http://www.chiptune.com/)
+    [modarchive](https://modarchive.org/)
+    [music contests](ftp://ftp.hornet.org/pub/demos/music/contests/)
+    [keygenmusic](http://www.keygenmusic.net/)
+
 Bugs:
     Pause and Loop/Unloop buttons don't work, send me a patch
 
