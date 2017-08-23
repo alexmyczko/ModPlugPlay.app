@@ -7,6 +7,9 @@ a module player for GNUstep
 Requirements:
     libmodplug and libao
 
+Support file formats:
+    mod s3m xm it mdl mtm okt psm med far dsm dmf amf 669
+
 Bugs:
     Pause and Loop/Unloop buttons don't work, send me a patch
 
