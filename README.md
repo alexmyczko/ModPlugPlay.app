@@ -1,6 +1,6 @@
 
 # ModPlugPlay.app
-a module player for GNUstep
+a module player for [GNUstep](https://github.com/gnustep/)
 
 ![Screenshot](https://raw.github.com/alexmyczko/ModPlugPlay.app/master/ModPlugPlay.png?raw=true "Screenshot")
 
