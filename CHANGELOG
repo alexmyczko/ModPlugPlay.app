@@ -1,0 +1,2 @@
+1.8	Memory leak fixed (modplug_unload was missing completely)
+1.6	Using libao isntead of OSS directly

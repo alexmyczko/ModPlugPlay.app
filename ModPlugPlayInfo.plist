@@ -1,0 +1,20 @@
+{
+	ApplicationName = "ModPlugPlay";
+	ApplicationDescription = "ModPlugPlay - Module Player (based on modplugplay)";
+	ApplicationRelease = "1.8 - 23/09/2004";
+	ApplicationURL = "https://github.com/alexmyczko/ModPlugPlay.app/";
+	Authors = ("Alex Myczko <alex@aiei.ch>\nThomas Steinacher <tom@thomasst.ch>");
+	Copyright = "Copyright (c) 2004-2017 Alex Myczko, Thomas Steinacher";
+	CopyrightDescription = "This program is released under the GNU GPL";
+	NSIcon = "ModPlugPlay.tiff";
+	NSTypes = (
+	    {
+		NSName = "mod";
+		NSIcon = "ModPlugPlay.tiff";
+		NSHumanReadableName = ("Music Module");
+		NSUnixExtensions = ("mod","s3m","xm","it","mdl","mtm","okt","psm","med","far","dsm","dmf","amf","669");
+		NSRole = Viewer;
+		NSDocumentClass = Document;
+	    }
+	);
+}
