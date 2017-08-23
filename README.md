@@ -13,7 +13,7 @@ Support file formats:
 Some music files:
     [chiptune](http://www.chiptune.com/)
     [modarchive](https://modarchive.org/)
-    [musiccontests](ftp://ftp.hornet.org/pub/demos/music/contests/)
+    [musiccontests](http://ftp.hornet.org/pub/demos/music/contests/)
     [keygenmusic](http://www.keygenmusic.net/)
 
 Bugs:
