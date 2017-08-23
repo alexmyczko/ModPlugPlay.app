@@ -5,7 +5,7 @@ a module player for GNUstep
 ![Screenshot](https://raw.github.com/alexmyczko/ModPlugPlay.app/master/ModPlugPlay.png?raw=true "Screenshot")
 
 Requirements:
-    libmodplug(https://github.com/Konstanty/libmodplug) and libao
+    libmodplug(https://github.com/Konstanty/libmodplug libmodplug) and libao
 
 Support file formats:
     mod s3m xm it mdl mtm okt psm med far dsm dmf amf 669
