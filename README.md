@@ -5,9 +5,9 @@ a module player for [GNUstep](https://github.com/gnustep/)
 ![Screenshot](https://raw.github.com/alexmyczko/ModPlugPlay.app/master/ModPlugPlay.png?raw=true "Screenshot")
 
 Requirements:
-    [libmodplug](https://github.com/Konstanty/libmodplug) and [libao](https://github.com/xiph/libao) (try alsa or oss in /etc/libao.conf or ~/.libao)
+    [libopenmpt](https://github.com/OpenMPT/openmpt) or [libmodplug](https://github.com/Konstanty/libmodplug) and [libao](https://github.com/xiph/libao) (try alsa or oss in /etc/libao.conf or ~/.libao)
 
-Support file formats:
+Supported file formats:
     mod s3m xm it mdl mtm okt psm med far dsm dmf amf 669
 
 Some music files:
