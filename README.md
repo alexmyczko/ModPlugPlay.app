@@ -1,8 +1,6 @@
 
 # ModPlugPlay.app
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/177a5ea4c24d4055b26338b5ac9f4edc)](https://app.codacy.com/app/alexmyczko/ModPlugPlay.app?utm_source=github.com&utm_medium=referral&utm_content=alexmyczko/ModPlugPlay.app&utm_campaign=Badge_Grade_Dashboard)
-
 a module player for [GNUstep](https://github.com/gnustep/)
 
 ![Screenshot](https://raw.github.com/alexmyczko/ModPlugPlay.app/master/ModPlugPlay.png?raw=true "Screenshot")
@@ -20,6 +18,6 @@ Some music files:
     [keygenmusic](http://www.keygenmusic.net/)
 
 Bugs:
-    Pause and Loop/Unloop buttons don't work, send me a patch
+    Pause and Loop/Unloop buttons don't work, send a patch
 
 Alex Myczko <alex@aiei.ch>
